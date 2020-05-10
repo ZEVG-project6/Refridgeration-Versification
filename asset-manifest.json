@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Refridgeration-Versification/static/css/main.027b64c8.chunk.css",
-    "main.js": "/Refridgeration-Versification/static/js/main.0a62b618.chunk.js",
-    "main.js.map": "/Refridgeration-Versification/static/js/main.0a62b618.chunk.js.map",
+    "main.js": "/Refridgeration-Versification/static/js/main.c83e8e25.chunk.js",
+    "main.js.map": "/Refridgeration-Versification/static/js/main.c83e8e25.chunk.js.map",
     "runtime-main.js": "/Refridgeration-Versification/static/js/runtime-main.929e7ae7.js",
     "runtime-main.js.map": "/Refridgeration-Versification/static/js/runtime-main.929e7ae7.js.map",
     "static/js/2.f300ffa3.chunk.js": "/Refridgeration-Versification/static/js/2.f300ffa3.chunk.js",
     "static/js/2.f300ffa3.chunk.js.map": "/Refridgeration-Versification/static/js/2.f300ffa3.chunk.js.map",
     "index.html": "/Refridgeration-Versification/index.html",
-    "precache-manifest.6c957a5d9063665b96509f2d58221175.js": "/Refridgeration-Versification/precache-manifest.6c957a5d9063665b96509f2d58221175.js",
+    "precache-manifest.52bc2363e521a83c2e33989adf443a3c.js": "/Refridgeration-Versification/precache-manifest.52bc2363e521a83c2e33989adf443a3c.js",
     "service-worker.js": "/Refridgeration-Versification/service-worker.js",
     "static/css/main.027b64c8.chunk.css.map": "/Refridgeration-Versification/static/css/main.027b64c8.chunk.css.map",
     "static/js/2.f300ffa3.chunk.js.LICENSE.txt": "/Refridgeration-Versification/static/js/2.f300ffa3.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.929e7ae7.js",
     "static/js/2.f300ffa3.chunk.js",
     "static/css/main.027b64c8.chunk.css",
-    "static/js/main.0a62b618.chunk.js"
+    "static/js/main.c83e8e25.chunk.js"
   ]
 }
