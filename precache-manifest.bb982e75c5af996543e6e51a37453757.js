@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d71bf8bba239ee70574fc77f7afea54",
+    "revision": "0dff11ba8147a4985a92f73c99add034",
     "url": "/Refridgeration-Versification/index.html"
   },
   {
-    "revision": "1765b4a0b4d8bbfb7ec9",
-    "url": "/Refridgeration-Versification/static/css/main.027b64c8.chunk.css"
+    "revision": "8c9768734d52aefaab00",
+    "url": "/Refridgeration-Versification/static/css/main.b36d7a69.chunk.css"
   },
   {
     "revision": "5f0f9201613abdd9119a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Refridgeration-Versification/static/js/2.f300ffa3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1765b4a0b4d8bbfb7ec9",
-    "url": "/Refridgeration-Versification/static/js/main.c83e8e25.chunk.js"
+    "revision": "8c9768734d52aefaab00",
+    "url": "/Refridgeration-Versification/static/js/main.12b6979e.chunk.js"
   },
   {
     "revision": "a3018cd1db7a2d3d92a3",
