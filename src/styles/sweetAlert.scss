@@ -3,6 +3,11 @@
 .swal2-html-container {
     font-size: 2rem;
     margin-bottom: 30px;
+
+}
+
+.swal2-actions button[style] {
+    @include mainButton($fontSizeValue: 2rem, $widthValue: 40%)
 }
 
 .swal2-confirm.swal2-styled {
